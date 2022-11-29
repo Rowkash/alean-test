@@ -1,0 +1,5 @@
+export * from './HeadJob'
+export * from './AboutJob'
+export * from './ImagesJob'
+export * from './AdditionalJob'
+export * from './ContactJob'
